@@ -7,3 +7,6 @@ In this course we work with tools that support DevOps, including:
 - Branch-based workflows that keep the main branch stable
 - GitHub Actions for continuous integration
 - CI/CD pipelines that automate build and test steps
+
+
+Personal reflection: Working on this group assignment showed me how branches, pull requests and merge conflict resolution let several people work on the same repository without breaking the main branch.
