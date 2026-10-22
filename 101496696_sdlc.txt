@@ -1,0 +1,7 @@
+The Software Development Life Cycle (SDLC) describes the stages a software project goes through:
+- Requirements and planning
+- System design
+- Implementation (coding)
+- Testing
+- Deployment
+- Maintenance and support
