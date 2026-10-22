@@ -1,0 +1,1 @@
+This file is about COMP3104, the DevOps course at George Brown. The word DevOps combines Development and Operations. It describes a culture and a set of practices where developers and operations staff share responsibility for building, releasing and running software.
