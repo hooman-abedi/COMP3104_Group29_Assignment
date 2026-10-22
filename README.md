@@ -2,6 +2,7 @@
 
 ## Group Members
 - **Leader:** Hooman Abedi (101570367) - [GitHub](https://github.com/hooman-abedi)
+- **Member 2:** Martins Maduabuchi Ihechu (101496696) - [GitHub](https://github.com/martinsmaduabuchi)
 
 ## Project Description
 This repository hosts the Group 29 assignment for the COMP3104 DevOps course at George Brown Polytechnic. The project focuses on collaborative Git workflows, a per-developer branching strategy, pull requests, merge conflict resolution, and continuous integration using GitHub Actions.
