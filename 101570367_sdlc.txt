@@ -1,1 +1,3 @@
 The Software Development Life Cycle (SDLC) is a structured process for creating software. It usually includes six phases: planning, analysis and design, development, testing, deployment, and maintenance. Each phase produces outputs that feed into the next one.
+
+DevOps adds automation across these phases. A CI pipeline, like the GitHub Actions workflow in this repository, runs automatically on every push and pull request to check the code. CD pipelines then deploy approved changes, so testing and deployment become fast, repeatable steps instead of slow manual tasks.
