@@ -1,0 +1,1 @@
+COMP3104 DevOps introduces the practices and tools teams use to deliver software continuously. DevOps removes the wall between development and operations so that code can move from a developer's computer to production quickly, safely and repeatedly.
