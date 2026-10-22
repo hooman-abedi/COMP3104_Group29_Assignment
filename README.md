@@ -27,3 +27,22 @@ Each member created three files in the root of the repository:
    git pull origin master
 ```
 4. No dependencies are required; all files are plain text and Markdown.
+
+## CI/CD Pipeline
+The project uses **GitHub Actions** for continuous integration. The workflow is defined in `.github/workflows/ci.yml` and:
+- Runs automatically on every **push** and **pull request**, on any branch
+- Uses the `ubuntu-latest` runner hosted by GitHub
+- Checks out the repository code and lists the files to confirm the pipeline is working
+
+The status of each run can be viewed in the **Actions** tab of the repository.
+
+## Branching Strategy
+The team uses a **per-developer** branching strategy:
+- Each member works on their own branch named `STUDENTID-Name` (for example, `101570367-Hooman`).
+- No one commits directly to `master`; it holds the reviewed, final version of the project.
+- Members pull the latest `master` into their branch regularly to avoid conflicts.
+- Changes are merged into `master` through **Pull Requests**, using the template in `.github/PULL_REQUEST_TEMPLATE.md`.
+- Merge conflicts (for example, in `README.md`) are resolved by keeping all members' changes and removing the conflict markers.
+
+## Pull Request Template
+All pull requests use the template in `.github/PULL_REQUEST_TEMPLATE.md`, which includes a description, the type of change, and a review checklist.
