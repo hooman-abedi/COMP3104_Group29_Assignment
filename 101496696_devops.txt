@@ -1,1 +1,9 @@
 This file is about COMP3104, the DevOps course at George Brown. The word DevOps combines Development and Operations. It describes a culture and a set of practices where developers and operations staff share responsibility for building, releasing and running software.
+
+In this course we work with tools that support DevOps, including:
+- Git for tracking changes in code
+- GitHub for hosting repositories and team collaboration
+- Pull requests and code review
+- Branch-based workflows that keep the main branch stable
+- GitHub Actions for continuous integration
+- CI/CD pipelines that automate build and test steps
